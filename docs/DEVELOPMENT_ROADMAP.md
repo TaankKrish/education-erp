@@ -134,3 +134,4 @@ The following modules are planned for post-MVP enterprise roadmap:
 - Library barcode scanning and book circulation.
 - Native mobile applications (React Native / Flutter).
 - AI chatbot assistants and automated question paper generators.
+

@@ -14,3 +14,4 @@ export interface StudentRecord {
   academicYearId: string;
   status: 'active' | 'transferred' | 'graduated' | 'inactive';
 }
+

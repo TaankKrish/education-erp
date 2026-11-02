@@ -28,3 +28,4 @@ export interface SchoolAffiliation {
   role: UserRole;
   status: MembershipStatus;
 }
+

@@ -97,3 +97,4 @@
 - Implement Supabase Auth email/password flows.
 - Create school selection and active session resolver.
 - Implement role-protected dashboard route guards in middleware.
+

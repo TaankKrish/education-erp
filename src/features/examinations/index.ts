@@ -12,3 +12,4 @@ export interface ExaminationRecord {
   endDate: string;
   isPublished: boolean;
 }
+

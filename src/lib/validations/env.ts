@@ -52,3 +52,4 @@ export function isSupabaseConfigured(): boolean {
       !env.NEXT_PUBLIC_SUPABASE_URL.includes('your-project-id'),
   );
 }
+

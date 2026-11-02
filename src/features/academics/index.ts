@@ -33,3 +33,4 @@ export interface SubjectRecord {
   name: string; // e.g. "Mathematics"
   code: string; // e.g. "041"
 }
+

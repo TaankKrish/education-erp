@@ -303,3 +303,4 @@ TO authenticated
 USING (
   public.is_school_member(school_id, ARRAY['PRINCIPAL'::user_role, 'ADMIN'::user_role])
 );
+

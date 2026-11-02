@@ -121,3 +121,4 @@ const allowed = canPerformAction(
   'section-uuid-10a', // target section ID
 );
 ```
+

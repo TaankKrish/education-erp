@@ -33,3 +33,4 @@ ON CONFLICT (id) DO NOTHING;
 -- Note: In production Supabase environments, user profiles are automatically populated
 -- via the auth.users trigger (handle_new_user). For manual local testing seeds, sample
 -- records can be inserted directly after users are registered via Supabase Auth CLI/Studio.
+

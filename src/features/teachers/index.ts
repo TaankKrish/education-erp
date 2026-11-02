@@ -13,3 +13,4 @@ export interface TeacherRecord {
   joiningDate: string;
   status: 'active' | 'on_leave' | 'resigned';
 }
+

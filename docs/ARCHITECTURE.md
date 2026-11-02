@@ -101,3 +101,4 @@ Supabase clients are created via `@supabase/ssr` to ensure secure, cookie-based 
 - `src/lib/supabase/server.ts`: Server client accessing cookies via `await cookies()`.
 - `src/lib/supabase/server.ts (createAdminClient)`: Service-role client for background jobs and administrative operations (never exposed to browser).
 - `src/lib/supabase/middleware.ts`: Token refresher invoked by `src/middleware.ts` on each incoming request.
+

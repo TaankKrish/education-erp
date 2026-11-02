@@ -9,3 +9,4 @@ export interface AuthSession {
   activeSchoolId: string | null;
   activeRole: string | null;
 }
+

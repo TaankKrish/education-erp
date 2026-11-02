@@ -87,3 +87,4 @@
   Implement a central validator in `src/lib/validations/env.ts` with Zod. Provide graceful fallback checks via `isSupabaseConfigured()` so build and local testing work without requiring production secrets.
 - **Consequences:**
   Immediate, readable startup errors when critical configuration is missing; zero risk of exposing secrets.
+

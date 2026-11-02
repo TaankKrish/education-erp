@@ -24,3 +24,4 @@ describe('Core Utilities', () => {
     expect(getInitials(null)).toBe('??');
   });
 });
+

@@ -126,3 +126,4 @@ ALTER TABLE school_memberships ENABLE ROW LEVEL SECURITY;
 | `examinations` | Exam cycles, grading scales, schedules | Phase 6 |
 | `marks` | Subject marks, grades, and teacher remarks | Phase 6 |
 | `notices` | School broadcasts and announcements | Phase 7 |
+

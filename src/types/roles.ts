@@ -81,3 +81,4 @@ export interface AuthorizationContext {
   assignedSectionIds?: string[];
   linkedStudentIds?: string[];
 }
+

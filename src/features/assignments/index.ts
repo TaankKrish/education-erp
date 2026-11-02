@@ -14,3 +14,4 @@ export interface AssignmentRecord {
   dueDate: string;
   totalMarks?: number;
 }
+

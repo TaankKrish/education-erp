@@ -13,3 +13,4 @@ export interface AttendanceRecord {
   remarks?: string;
   markedById: string;
 }
+

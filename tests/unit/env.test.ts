@@ -8,3 +8,4 @@ describe('Environment Configuration', () => {
     expect(typeof configured).toBe('boolean');
   });
 });
+
